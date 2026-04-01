@@ -50,7 +50,7 @@
 | Contributor | GitHub | Responsibilities |
 |-------------|--------|-----------------|
 | Pranavi Devulapalli | [@pranavidevulapalli938-rgb](https://github.com/pranavidevulapalli938-rgb) | Frontend (React), Gmail parser & OAuth integration |
-| Isha | [@Isha0816](https://github.com/ishaw015) | FastAPI backend, Chrome extension |
+| Isha | [@ishaw015](https://github.com/ishaw015) | FastAPI backend, Chrome extension |
 | Nayana Reddy K | [@NayanaReddyK](https://github.com/NayanaReddyK) | AI placement server, Gemini API integration |
 
 ---
